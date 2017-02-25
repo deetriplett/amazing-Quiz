@@ -5,6 +5,7 @@ var question = [
   new Question("What is the answer to the Ultimate Question of Life, the Universe, and Everything?", ["Pi", "42" ], "42")
   new Question("Who should have been America's president?", "Bernie Sanders");   
   new Question("Who's the orangest troll of them all?", "Donald Trump"); 
+  new Question("Pi is...", 3.14); 
   ];
 
 //Create Quiz
