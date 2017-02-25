@@ -6,6 +6,7 @@ var question = [
   new Question("Who should have been America's president?", "Bernie Sanders");   
   new Question("Who's the orangest troll of them all?", "Donald Trump"); 
   new Question("Pi is...", 3.14); 
+  new Question("Who's better, The Verge or CNET?", "CNET"); 
   ];
 
 //Create Quiz
