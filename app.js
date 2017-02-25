@@ -3,7 +3,7 @@ var question = [
   new Question("Who was the first President of the United States?", ["George Washington", "Thomas Jefferson" ], "George Washington"),
   new Question("What Bear is best", ["Brown Bear", "Beets", "Battlestar Galactica" ], "Brown Bear"),
   new Question("What is the answer to the Ultimate Question of Life, the Universe, and Everything?", ["Pi", "42" ], "42")
-  new Question("");   
+  new Question("Who should have been America's president?", "Bernie Sanders");   
   ];
 
 //Create Quiz
